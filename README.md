@@ -33,4 +33,6 @@ Before you begin, ensure you have the following prerequisites in place:
 ### Installation
 
 1. **Clone the Repository**: Clone this GitHub repository to your local development environment using the following command:
+   ->git clone https://github.com/anurag-handique/student-registration-api.git
+
    
